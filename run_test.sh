@@ -1,0 +1,11 @@
+python /content/drive/MyDrive/Count2021/test_frames.py \
+-width 512 \
+-height 512 \
+-n_fish 0 \
+-sigma 1.1 \
+-min_sigma 1.1 \
+-thre1 0.2 \
+-stages 4 \
+-n_frames 2 \
+-experiment_folder /content/drive/MyDrive/Count2021/DatasetPintado_OlhoCalda/count_sigmax_1_1_sigmin_1_1_frames_2_stages_4_temporal_True/model_final.h5 \
+-train_images_folder /content/drive/MyDrive/Count2021/TEST
